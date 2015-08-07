@@ -12,7 +12,7 @@ public class Activate
     {
 
 
-        //установка стиля приложения
+        //set Nimbus style for project
         try
         {
             for (UIManager.LookAndFeelInfo info : UIManager.getInstalledLookAndFeels())
